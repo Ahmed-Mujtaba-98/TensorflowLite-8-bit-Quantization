@@ -1,0 +1,3 @@
+data/
+pretrained.py/
+mnist_tflite_models/

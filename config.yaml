@@ -1,0 +1,14 @@
+# model training epochs
+EPOCH: 5
+
+# models save directory
+MODEL_DIR: mnist_tflite_models
+
+# dataset to use
+DATASET: mnist
+
+# model name to save
+MODEL_FILE: mnist_model.tflite 
+
+# quantized model name to save
+QUANT_MODEL_FILE: mnist_model_quant.tflite 
